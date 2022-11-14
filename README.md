@@ -28,5 +28,10 @@
 <details>
   <summary markdown="span"><strong>Print - Projetos Trybe</strong></summary>
   <br />
+<<<<<<< HEAD
   ![Personal]
 </details>
+=======
+  ![Personal Grade](./grade.png)
+</details>
+>>>>>>> d01e959858d5d53f289628bd0d56603419415e8b
