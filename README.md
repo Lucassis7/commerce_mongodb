@@ -22,3 +22,11 @@
 
 * Docker CLI
 * MongoDB
+
+## Avaliação do Projeto
+
+<details>
+  <summary markdown="span"><strong>Print - Projetos Trybe</strong></summary>
+  <br />
+  ![Personal]
+</details>
