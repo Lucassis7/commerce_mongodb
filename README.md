@@ -25,8 +25,4 @@
 
 ## Avaliação do Projeto
 
-<details>
-  <summary markdown="span"><strong>Print - Projetos Trybe</strong></summary>
-  <br />
-  ![Personal Grade](./grade.png)
-</details>
+![Personal Grade](./grade.png)
